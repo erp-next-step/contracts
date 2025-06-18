@@ -1,5 +1,5 @@
 {
-  "name": "yourorg/erp-contracts",
+  "name": "erp-next-step/erp-contracts",
   "description": "Shared contracts for ERP microservices (DTOs, Events, Enums, Contracts, etc.)",
   "type": "library",
   "autoload": {
@@ -8,8 +8,11 @@
     }
   },
   "require": {
-    "php": "^8.1"
+    "php": "^8.4"
   },
   "license": "MIT",
-  "minimum-stability": "dev"
+  "minimum-stability": "dev",
+  "require-dev": {
+    "phpunit/phpunit": "^12.3@dev"
+  }
 }
