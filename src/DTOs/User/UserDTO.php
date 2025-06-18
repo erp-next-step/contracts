@@ -1,5 +1,5 @@
 <?php
-namespace ERP\Contracts\DTOs;
+namespace ERP\Contracts\DTOs\User;
 
 class UserDTO
 {
