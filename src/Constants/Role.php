@@ -1,5 +1,6 @@
 <?php
-namespace ERP\Contracts\Constants;
+
+namespace Contracts\Constants;
 
 class Role
 {

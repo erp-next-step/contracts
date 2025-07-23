@@ -1,5 +1,6 @@
 <?php
-namespace ERP\Contracts\Traits;
+
+namespace Contracts\Traits;
 
 use Illuminate\Support\Str;
 

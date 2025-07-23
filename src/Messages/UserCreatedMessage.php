@@ -1,7 +1,8 @@
 <?php
-namespace ERP\Contracts\Messages;
 
-use ERP\Contracts\DTOs\UserDTO;
+namespace Contracts\Messages;
+
+use Contracts\DTOs\UserDTO;
 
 class UserCreatedMessage
 {

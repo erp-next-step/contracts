@@ -1,5 +1,6 @@
 <?php
-namespace ERP\Contracts\Helpers;
+
+namespace Contracts\Helpers;
 
 class PhoneHelper
 {

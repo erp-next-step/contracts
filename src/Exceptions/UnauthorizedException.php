@@ -1,5 +1,6 @@
 <?php
-namespace ERP\Contracts\Exceptions;
+
+namespace Contracts\Exceptions;
 
 use Exception;
 

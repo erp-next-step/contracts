@@ -1,6 +1,6 @@
 <?php
 
-use ERP\Contracts\DTOs\UserDTO;
+use Contracts\DTOs\UserDTO;
 use PHPUnit\Framework\TestCase;
 
 class UserDTOTest extends TestCase

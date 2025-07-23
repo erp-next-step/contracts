@@ -1,7 +1,8 @@
 <?php
-namespace ERP\Contracts\Events;
 
-use ERP\Contracts\DTOs\UserDTO;
+namespace Contracts\Events;
+
+use Contracts\DTOs\UserDTO;
 
 class UserRegistered
 {

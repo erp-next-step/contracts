@@ -1,5 +1,6 @@
 <?php
-namespace ERP\Contracts\Responses;
+
+namespace Contracts\Responses;
 
 class ErrorResponse extends ApiResponse
 {

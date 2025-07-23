@@ -1,5 +1,6 @@
 <?php
-namespace ERP\Contracts\Enums;
+
+namespace Contracts\Enums;
 
 enum UserStatus: string
 {

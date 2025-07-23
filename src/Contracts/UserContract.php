@@ -1,7 +1,8 @@
 <?php
-namespace ERP\Contracts\Contracts;
 
-use ERP\Contracts\DTOs\UserDTO;
+namespace Contracts\Contracts;
+
+use Contracts\DTOs\UserDTO;
 
 interface UserContract
 {

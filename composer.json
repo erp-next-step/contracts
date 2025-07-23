@@ -1,10 +1,10 @@
 {
-  "name": "erp-next-step/erp-contracts",
+  "name": "etos/contracts",
   "description": "Shared contracts for ERP microservices (DTOs, Events, Enums, Contracts, etc.)",
   "type": "library",
   "autoload": {
     "psr-4": {
-      "ERP\\Contracts\\": "src/"
+      "Contracts\\": "src/"
     }
   },
   "require": {
